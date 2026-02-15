@@ -16,3 +16,7 @@ CustomTkinter
 Spoonacular API
 Pillow (PIL)
 Requests
+
+Contributors:
+Anjali Pradeep
+Archana Maria Joy
