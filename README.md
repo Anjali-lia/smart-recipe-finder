@@ -18,5 +18,4 @@ Pillow (PIL)
 Requests
 
 Contributors:
-Anjali Pradeep
-Archana Maria Joy
+Anjali Pradeep & Archana Maria Joy
